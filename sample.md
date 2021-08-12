@@ -9,7 +9,7 @@
 - bullet 1
 - bullet 2
 
-[ ]checkbox , unchecked
+[ ] checkbox, unchecked
 [x] checkbox, checked
 
 [google link](https://www.google.com/)
